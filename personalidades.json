@@ -65,36 +65,6 @@
     ]
   },
   {
-    "id": "maria-araujo",
-    "title": "Maria de Araújo",
-    "genero": "F",
-    "origem": "Nacional",
-    "pais": "Brasil",
-    "categoria": "Liderança Feminina",
-    "historico": false,
-    "destaque": false,
-    "nascimento": "1962",
-    "falecimento": "",
-    "ano_nascimento": 1962,
-    "ano_falecimento": null,
-    "idade": 64,
-    "resumo": "Liderança histórica na promoção de fundos rotativos solidários e inclusão de mulheres no cooperativismo da agricultura familiar.",
-    "descricao": "Atuou por mais de 30 anos organizando cooperativas agroecológicas e núcleos de crédito rotativo geridos por mulheres no campo em Minas Gerais.",
-    "imagem": "",
-    "tags": [
-      "Mulheres",
-      "Agricultura Familiar",
-      "Crédito",
-      "Minas Gerais",
-      "Nacional",
-      "Liderança",
-      "aula-04"
-    ],
-    "fonte": "Acervo do Cooperativismo da Agricultura Familiar",
-    "link": "",
-    "links": []
-  },
-  {
     "id": "diva-pinho-sim",
     "title": "Diva Benevides Pinho",
     "genero": "F",
@@ -388,6 +358,1632 @@
       {
         "texto": "https://ica.coop/en/marcio-lopes-freitas-brazil",
         "url": "https://ica.coop/en/marcio-lopes-freitas-brazil"
+      }
+    ]
+  },
+  {
+    "id": "charles-howarth",
+    "title": "Charles Howarth",
+    "genero": "M",
+    "origem": "Internacional",
+    "pais": "Inglaterra",
+    "categoria": "Pioneiro",
+    "historico": true,
+    "destaque": false,
+    "nascimento": "1814",
+    "falecimento": "1868",
+    "ano_nascimento": 1814,
+    "ano_falecimento": 1868,
+    "idade": 54,
+    "resumo": "Um dos 28 Pioneiros de Rochdale, apontado como principal redator dos estatutos da Sociedade dos Probos Pioneiros de Rochdale (1844).",
+    "descricao": "Operário da indústria de algodão, é tradicionalmente creditado pela formulação do retorno das sobras proporcional às compras de cada associado, mecanismo que se tornou marca do cooperativismo de consumo. Sua contribuição ajudou a transformar ideias owenistas em regras práticas de gestão democrática e neutralidade política e religiosa.",
+    "imagem": "",
+    "tags": [
+      "Pioneiro",
+      "Rochdale",
+      "Consumo",
+      "Reino Unido",
+      "Internacional"
+    ],
+    "fonte": "Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Charles_Howarth",
+    "links": [
+      {
+        "texto": "https://en.wikipedia.org/wiki/Charles_Howarth",
+        "url": "https://en.wikipedia.org/wiki/Charles_Howarth"
+      }
+    ]
+  },
+  {
+    "id": "george-holyoake",
+    "title": "George Jacob Holyoake",
+    "genero": "M",
+    "origem": "Internacional",
+    "pais": "Inglaterra",
+    "categoria": "Pensador",
+    "historico": true,
+    "destaque": false,
+    "nascimento": "1817",
+    "falecimento": "1906",
+    "ano_nascimento": 1817,
+    "ano_falecimento": 1906,
+    "idade": 89,
+    "resumo": "Escritor e militante que se tornou o grande cronista do cooperativismo moderno, autor de 'Self-Help by the People: History of the Rochdale Pioneers' (1857).",
+    "descricao": "Ativista secularista e owenista, Holyoake difundiu internacionalmente a experiência de Rochdale e escreveu 'The History of Co-operation in England'. Participou da fundação e dos primeiros congressos que levaram à criação da Aliança Cooperativa Internacional em 1895, defendendo a participação dos trabalhadores nos lucros.",
+    "imagem": "",
+    "tags": [
+      "Pensador",
+      "Rochdale",
+      "História",
+      "Reino Unido",
+      "Internacional"
+    ],
+    "fonte": "Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/George_Holyoake",
+    "links": [
+      {
+        "texto": "https://en.wikipedia.org/wiki/George_Holyoake",
+        "url": "https://en.wikipedia.org/wiki/George_Holyoake"
+      }
+    ]
+  },
+  {
+    "id": "philippe-buchez",
+    "title": "Philippe Buchez",
+    "genero": "M",
+    "origem": "Internacional",
+    "pais": "França",
+    "categoria": "Pensador",
+    "historico": true,
+    "destaque": false,
+    "nascimento": "1796",
+    "falecimento": "1865",
+    "ano_nascimento": 1796,
+    "ano_falecimento": 1865,
+    "idade": 69,
+    "resumo": "Médico e pensador socialista cristão, precursor das cooperativas de trabalho (associações operárias de produção) na França.",
+    "descricao": "Em 1831 propôs as associações operárias de produção, nas quais os trabalhadores seriam donos dos meios de produção e formariam um capital coletivo indivisível, ideia que antecipa a reserva indivisível das cooperativas atuais. Presidiu a Assembleia Constituinte francesa em 1848.",
+    "imagem": "",
+    "tags": [
+      "Pensador",
+      "Cooperativas de Trabalho",
+      "França",
+      "Internacional"
+    ],
+    "fonte": "Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Philippe_Buchez",
+    "links": [
+      {
+        "texto": "https://en.wikipedia.org/wiki/Philippe_Buchez",
+        "url": "https://en.wikipedia.org/wiki/Philippe_Buchez"
+      }
+    ]
+  },
+  {
+    "id": "louis-blanc",
+    "title": "Louis Blanc",
+    "genero": "M",
+    "origem": "Internacional",
+    "pais": "França",
+    "categoria": "Pensador",
+    "historico": true,
+    "destaque": false,
+    "nascimento": "1811",
+    "falecimento": "1882",
+    "ano_nascimento": 1811,
+    "ano_falecimento": 1882,
+    "idade": 71,
+    "resumo": "Jornalista e político francês, autor de 'L'Organisation du travail', que defendeu oficinas sociais autogeridas pelos trabalhadores com apoio do Estado.",
+    "descricao": "Suas 'oficinas sociais' propunham a organização coletiva da produção com repartição igualitária dos resultados, ideia que influenciou o cooperativismo de produção e o debate sobre o papel do Estado no fomento às cooperativas. Integrou o governo provisório da Revolução de 1848.",
+    "imagem": "",
+    "tags": [
+      "Pensador",
+      "Socialismo Associativo",
+      "Cooperativas de Trabalho",
+      "França",
+      "Internacional"
+    ],
+    "fonte": "Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Louis_Blanc",
+    "links": [
+      {
+        "texto": "https://en.wikipedia.org/wiki/Louis_Blanc",
+        "url": "https://en.wikipedia.org/wiki/Louis_Blanc"
+      }
+    ]
+  },
+  {
+    "id": "charles-gide",
+    "title": "Charles Gide",
+    "genero": "M",
+    "origem": "Internacional",
+    "pais": "França",
+    "categoria": "Pensador",
+    "historico": true,
+    "destaque": false,
+    "nascimento": "1847",
+    "falecimento": "1932",
+    "ano_nascimento": 1847,
+    "ano_falecimento": 1932,
+    "idade": 85,
+    "resumo": "Economista francês, principal expoente da Escola de Nîmes e teórico da 'República Cooperativa' fundada no cooperativismo de consumo.",
+    "descricao": "Professor no Collège de France, Gide defendeu a primazia do consumidor e a transformação gradual da economia pela via cooperativa. Coautor da 'História das Doutrinas Econômicas' com Charles Rist, influenciou fortemente o cooperativismo latino-americano e brasileiro e esteve ligado ao solidarismo.",
+    "imagem": "",
+    "tags": [
+      "Pensador",
+      "Escola de Nîmes",
+      "Consumo",
+      "Economia",
+      "França",
+      "Internacional"
+    ],
+    "fonte": "Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Charles_Gide",
+    "links": [
+      {
+        "texto": "https://en.wikipedia.org/wiki/Charles_Gide",
+        "url": "https://en.wikipedia.org/wiki/Charles_Gide"
+      }
+    ]
+  },
+  {
+    "id": "beatrice-webb",
+    "title": "Beatrice Webb",
+    "genero": "F",
+    "origem": "Internacional",
+    "pais": "Inglaterra",
+    "categoria": "Pensadora",
+    "historico": true,
+    "destaque": false,
+    "nascimento": "1858",
+    "falecimento": "1943",
+    "ano_nascimento": 1858,
+    "ano_falecimento": 1943,
+    "idade": 85,
+    "resumo": "Socióloga e economista britânica, autora de 'The Co-operative Movement in Great Britain' (1891), obra de referência sobre o cooperativismo de consumo.",
+    "descricao": "Assinando ainda como Beatrice Potter, analisou o movimento cooperativo britânico e defendeu a federação das cooperativas de consumo como forma de democracia econômica. Cofundadora da London School of Economics e da Sociedade Fabiana, ao lado de Sidney Webb.",
+    "imagem": "",
+    "tags": [
+      "Pensadora",
+      "Mulheres",
+      "Consumo",
+      "Sociologia",
+      "Reino Unido",
+      "Internacional"
+    ],
+    "fonte": "Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Beatrice_Webb",
+    "links": [
+      {
+        "texto": "https://en.wikipedia.org/wiki/Beatrice_Webb",
+        "url": "https://en.wikipedia.org/wiki/Beatrice_Webb"
+      }
+    ]
+  },
+  {
+    "id": "alice-acland",
+    "title": "Alice Acland",
+    "genero": "F",
+    "origem": "Internacional",
+    "pais": "Inglaterra",
+    "categoria": "Pioneira",
+    "historico": true,
+    "destaque": false,
+    "nascimento": "1849",
+    "falecimento": "1935",
+    "ano_nascimento": 1849,
+    "ano_falecimento": 1935,
+    "idade": 86,
+    "resumo": "Fundadora, em 1883, da Women's Co-operative Guild, primeira organização de mulheres cooperativistas do mundo.",
+    "descricao": "Responsável pela seção 'Woman's Corner' do jornal Co-operative News, lançou com Mary Lawrenson a proposta de uma liga de mulheres cooperadoras, que se tornou a Women's Co-operative Guild. A entidade formou lideranças femininas e levou pautas como direitos maternos e voto feminino ao movimento cooperativo.",
+    "imagem": "",
+    "tags": [
+      "Pioneira",
+      "Mulheres",
+      "Reino Unido",
+      "Internacional"
+    ],
+    "fonte": "Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Alice_Acland",
+    "links": [
+      {
+        "texto": "https://en.wikipedia.org/wiki/Alice_Acland",
+        "url": "https://en.wikipedia.org/wiki/Alice_Acland"
+      }
+    ]
+  },
+  {
+    "id": "margaret-davies",
+    "title": "Margaret Llewelyn Davies",
+    "genero": "F",
+    "origem": "Internacional",
+    "pais": "Inglaterra",
+    "categoria": "Liderança Feminina",
+    "historico": true,
+    "destaque": false,
+    "nascimento": "1861",
+    "falecimento": "1944",
+    "ano_nascimento": 1861,
+    "ano_falecimento": 1944,
+    "idade": 83,
+    "resumo": "Secretária-geral da Women's Co-operative Guild por mais de três décadas e primeira mulher a presidir o Congresso Cooperativo britânico (1922).",
+    "descricao": "Transformou a Guild em uma das maiores organizações de mulheres trabalhadoras do Reino Unido, articulando cooperativismo, direitos das mulheres e reformas sociais, como a publicação de 'Maternity: Letters from Working Women' (1915).",
+    "imagem": "",
+    "tags": [
+      "Liderança",
+      "Mulheres",
+      "Reino Unido",
+      "Internacional"
+    ],
+    "fonte": "Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Margaret_Llewelyn_Davies",
+    "links": [
+      {
+        "texto": "https://en.wikipedia.org/wiki/Margaret_Llewelyn_Davies",
+        "url": "https://en.wikipedia.org/wiki/Margaret_Llewelyn_Davies"
+      }
+    ]
+  },
+  {
+    "id": "luigi-luzzatti",
+    "title": "Luigi Luzzatti",
+    "genero": "M",
+    "origem": "Internacional",
+    "pais": "Itália",
+    "categoria": "Pioneiro",
+    "historico": true,
+    "destaque": false,
+    "nascimento": "1841",
+    "falecimento": "1927",
+    "ano_nascimento": 1841,
+    "ano_falecimento": 1927,
+    "idade": 86,
+    "resumo": "Economista e estadista italiano, fundador dos bancos populares cooperativos na Itália, a partir do modelo de Schulze-Delitzsch.",
+    "descricao": "Criou a Banca Popolare di Milano (1865) e difundiu o crédito cooperativo urbano no país. Foi ministro do Tesouro e primeiro-ministro da Itália (1910 a 1911), levando a pauta cooperativa ao centro da política econômica.",
+    "imagem": "",
+    "tags": [
+      "Pioneiro",
+      "Crédito",
+      "Bancos Populares",
+      "Itália",
+      "Internacional"
+    ],
+    "fonte": "Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Luigi_Luzzatti",
+    "links": [
+      {
+        "texto": "https://en.wikipedia.org/wiki/Luigi_Luzzatti",
+        "url": "https://en.wikipedia.org/wiki/Luigi_Luzzatti"
+      }
+    ]
+  },
+  {
+    "id": "alphonse-desjardins",
+    "title": "Alphonse Desjardins",
+    "genero": "M",
+    "origem": "Internacional",
+    "pais": "Canadá",
+    "categoria": "Pioneiro",
+    "historico": true,
+    "destaque": false,
+    "nascimento": "1854",
+    "falecimento": "1920",
+    "ano_nascimento": 1854,
+    "ano_falecimento": 1920,
+    "idade": 66,
+    "resumo": "Jornalista e estenógrafo parlamentar que fundou em 1900 a Caisse populaire de Lévis, origem do Movimento Desjardins no Quebec.",
+    "descricao": "Inspirado em Raiffeisen, Schulze-Delitzsch e Luzzatti, adaptou o crédito cooperativo à realidade norte-americana e ajudou a difundir as credit unions nos Estados Unidos. O Movimento Desjardins é hoje o maior grupo financeiro cooperativo da América do Norte.",
+    "imagem": "",
+    "tags": [
+      "Pioneiro",
+      "Crédito",
+      "Desjardins",
+      "Canadá",
+      "Internacional"
+    ],
+    "fonte": "Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Alphonse_Desjardins_(co-operator)",
+    "links": [
+      {
+        "texto": "https://en.wikipedia.org/wiki/Alphonse_Desjardins_(co-operator)",
+        "url": "https://en.wikipedia.org/wiki/Alphonse_Desjardins_(co-operator)"
+      }
+    ]
+  },
+  {
+    "id": "dorimene-desjardins",
+    "title": "Dorimène Roy Desjardins",
+    "genero": "F",
+    "origem": "Internacional",
+    "pais": "Canadá",
+    "categoria": "Pioneira",
+    "historico": true,
+    "destaque": false,
+    "nascimento": "1858",
+    "falecimento": "1932",
+    "ano_nascimento": 1858,
+    "ano_falecimento": 1932,
+    "idade": 74,
+    "resumo": "Cofundadora da Caisse populaire de Lévis (1900), foi responsável pela gestão cotidiana da primeira caixa Desjardins.",
+    "descricao": "Enquanto Alphonse Desjardins trabalhava em Ottawa, Dorimène administrava a caixa, atendia os associados e cuidava da contabilidade, assumindo papel central na consolidação do movimento, inclusive após a morte do marido. É reconhecida como cofundadora do Movimento Desjardins.",
+    "imagem": "",
+    "tags": [
+      "Pioneira",
+      "Mulheres",
+      "Crédito",
+      "Desjardins",
+      "Canadá",
+      "Internacional"
+    ],
+    "fonte": "Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Dorim%C3%A8ne_Roy_Desjardins",
+    "links": [
+      {
+        "texto": "https://en.wikipedia.org/wiki/Dorim%C3%A8ne_Roy_Desjardins",
+        "url": "https://en.wikipedia.org/wiki/Dorim%C3%A8ne_Roy_Desjardins"
+      }
+    ]
+  },
+  {
+    "id": "horace-plunkett",
+    "title": "Horace Plunkett",
+    "genero": "M",
+    "origem": "Internacional",
+    "pais": "Irlanda",
+    "categoria": "Pioneiro",
+    "historico": true,
+    "destaque": false,
+    "nascimento": "1854",
+    "falecimento": "1932",
+    "ano_nascimento": 1854,
+    "ano_falecimento": 1932,
+    "idade": 78,
+    "resumo": "Reformador agrário anglo-irlandês, pioneiro do cooperativismo agrícola na Irlanda e criador da Plunkett Foundation.",
+    "descricao": "Fundou em 1894 a Irish Agricultural Organisation Society, que organizou cooperativas de laticínios e de crédito rural, e em 1919 a Plunkett Foundation, dedicada ao estudo e à difusão das cooperativas rurais. Resumiu seu ideário no lema 'better farming, better business, better living'.",
+    "imagem": "",
+    "tags": [
+      "Pioneiro",
+      "Agricultura",
+      "Irlanda",
+      "Internacional"
+    ],
+    "fonte": "Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Horace_Plunkett",
+    "links": [
+      {
+        "texto": "https://en.wikipedia.org/wiki/Horace_Plunkett",
+        "url": "https://en.wikipedia.org/wiki/Horace_Plunkett"
+      }
+    ]
+  },
+  {
+    "id": "edward-filene",
+    "title": "Edward Filene",
+    "genero": "M",
+    "origem": "Internacional",
+    "pais": "Estados Unidos",
+    "categoria": "Pioneiro",
+    "historico": true,
+    "destaque": false,
+    "nascimento": "1860",
+    "falecimento": "1937",
+    "ano_nascimento": 1860,
+    "ano_falecimento": 1937,
+    "idade": 77,
+    "resumo": "Empresário do varejo de Boston e principal financiador e articulador do movimento das credit unions nos Estados Unidos.",
+    "descricao": "Após conhecer cooperativas de crédito na Índia e na Europa, fundou o Credit Union National Extension Bureau (1921) e apoiou a aprovação do Federal Credit Union Act (1934). Criou também a fundação que originou o Twentieth Century Fund.",
+    "imagem": "",
+    "tags": [
+      "Pioneiro",
+      "Crédito",
+      "Credit Unions",
+      "Estados Unidos",
+      "Internacional"
+    ],
+    "fonte": "Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Edward_Filene",
+    "links": [
+      {
+        "texto": "https://en.wikipedia.org/wiki/Edward_Filene",
+        "url": "https://en.wikipedia.org/wiki/Edward_Filene"
+      }
+    ]
+  },
+  {
+    "id": "moses-coady",
+    "title": "Moses Coady",
+    "genero": "M",
+    "origem": "Internacional",
+    "pais": "Canadá",
+    "categoria": "Pioneiro",
+    "historico": true,
+    "destaque": false,
+    "nascimento": "1882",
+    "falecimento": "1959",
+    "ano_nascimento": 1882,
+    "ano_falecimento": 1959,
+    "idade": 77,
+    "resumo": "Padre e educador canadense, líder do Movimento de Antigonish, que uniu educação de adultos e cooperativismo na Nova Escócia.",
+    "descricao": "À frente do Departamento de Extensão da St. Francis Xavier University (1928), organizou círculos de estudo que resultaram em cooperativas de pescadores, credit unions e cooperativas de consumo. Sua obra 'Masters of Their Own Destiny' (1939) tornou-se referência internacional em educação cooperativa.",
+    "imagem": "",
+    "tags": [
+      "Pioneiro",
+      "Educação Cooperativa",
+      "Canadá",
+      "Internacional"
+    ],
+    "fonte": "Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Moses_Coady",
+    "links": [
+      {
+        "texto": "https://en.wikipedia.org/wiki/Moses_Coady",
+        "url": "https://en.wikipedia.org/wiki/Moses_Coady"
+      }
+    ]
+  },
+  {
+    "id": "toyohiko-kagawa",
+    "title": "Toyohiko Kagawa",
+    "genero": "M",
+    "origem": "Internacional",
+    "pais": "Japão",
+    "categoria": "Pioneiro",
+    "historico": true,
+    "destaque": false,
+    "nascimento": "1888",
+    "falecimento": "1960",
+    "ano_nascimento": 1888,
+    "ano_falecimento": 1960,
+    "idade": 72,
+    "resumo": "Pastor, reformador social e escritor japonês, considerado o pai do cooperativismo de consumo no Japão.",
+    "descricao": "Atuou nas favelas de Kobe e participou da criação de cooperativas de consumo, crédito e seguros, entre elas as que deram origem à Co-op Kobe. Defendeu a 'economia da fraternidade' e foi figura de destaque na fundação da Japanese Consumers' Co-operative Union.",
+    "imagem": "",
+    "tags": [
+      "Pioneiro",
+      "Consumo",
+      "Japão",
+      "Ásia",
+      "Internacional"
+    ],
+    "fonte": "Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Toyohiko_Kagawa",
+    "links": [
+      {
+        "texto": "https://en.wikipedia.org/wiki/Toyohiko_Kagawa",
+        "url": "https://en.wikipedia.org/wiki/Toyohiko_Kagawa"
+      }
+    ]
+  },
+  {
+    "id": "jose-arizmendiarrieta",
+    "title": "José María Arizmendiarrieta",
+    "genero": "M",
+    "origem": "Internacional",
+    "pais": "Espanha",
+    "categoria": "Pioneiro",
+    "historico": true,
+    "destaque": false,
+    "nascimento": "1915",
+    "falecimento": "1976",
+    "ano_nascimento": 1915,
+    "ano_falecimento": 1976,
+    "idade": 61,
+    "resumo": "Padre basco, idealizador da Experiência Cooperativa de Mondragón, um dos maiores complexos cooperativos do mundo.",
+    "descricao": "Chegou a Mondragón em 1941, fundou a Escola Profissional em 1943 e inspirou seus alunos a criar a Ulgor (1956), primeira cooperativa industrial do grupo, seguida da Caja Laboral. Seu pensamento uniu doutrina social cristã, educação técnica e autogestão.",
+    "imagem": "",
+    "tags": [
+      "Pioneiro",
+      "Mondragón",
+      "Cooperativas de Trabalho",
+      "Espanha",
+      "Internacional"
+    ],
+    "fonte": "Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Arizmendiarrieta",
+    "links": [
+      {
+        "texto": "https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Arizmendiarrieta",
+        "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Arizmendiarrieta"
+      }
+    ]
+  },
+  {
+    "id": "juan-justo",
+    "title": "Juan B. Justo",
+    "genero": "M",
+    "origem": "Internacional",
+    "pais": "Argentina",
+    "categoria": "Pioneiro",
+    "historico": true,
+    "destaque": false,
+    "nascimento": "1865",
+    "falecimento": "1928",
+    "ano_nascimento": 1865,
+    "ano_falecimento": 1928,
+    "idade": 63,
+    "resumo": "Médico e político argentino, fundador do Partido Socialista e da cooperativa El Hogar Obrero (1905), marco do cooperativismo na América do Sul.",
+    "descricao": "El Hogar Obrero nasceu como cooperativa de crédito e habitação e tornou-se uma das maiores cooperativas de consumo da América Latina. Justo foi também tradutor de 'O Capital' para o espanhol e defendeu o cooperativismo como ferramenta de emancipação econômica dos trabalhadores.",
+    "imagem": "",
+    "tags": [
+      "Pioneiro",
+      "Habitação",
+      "Consumo",
+      "Argentina",
+      "América Latina",
+      "Internacional"
+    ],
+    "fonte": "Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Juan_B._Justo",
+    "links": [
+      {
+        "texto": "https://en.wikipedia.org/wiki/Juan_B._Justo",
+        "url": "https://en.wikipedia.org/wiki/Juan_B._Justo"
+      }
+    ]
+  },
+  {
+    "id": "antonio-sergio",
+    "title": "António Sérgio",
+    "genero": "M",
+    "origem": "Internacional",
+    "pais": "Portugal",
+    "categoria": "Pensador",
+    "historico": true,
+    "destaque": false,
+    "nascimento": "1883",
+    "falecimento": "1969",
+    "ano_nascimento": 1883,
+    "ano_falecimento": 1969,
+    "idade": 86,
+    "resumo": "Ensaísta e pedagogo português, principal doutrinador do cooperativismo em língua portuguesa.",
+    "descricao": "Defendeu o cooperativismo como via de reforma social democrática e autônoma frente ao Estado e ao capital, em obras como 'Sobre o Sistema Cooperativista'. Seu nome batizou o instituto público português dedicado ao setor cooperativo (INSCOOP), hoje integrado à CASES.",
+    "imagem": "",
+    "tags": [
+      "Pensador",
+      "Filosofia",
+      "Portugal",
+      "Lusofonia",
+      "Internacional"
+    ],
+    "fonte": "Wikipedia",
+    "link": "https://pt.wikipedia.org/wiki/Ant%C3%B3nio_S%C3%A9rgio",
+    "links": [
+      {
+        "texto": "https://pt.wikipedia.org/wiki/Ant%C3%B3nio_S%C3%A9rgio",
+        "url": "https://pt.wikipedia.org/wiki/Ant%C3%B3nio_S%C3%A9rgio"
+      }
+    ]
+  },
+  {
+    "id": "verghese-kurien",
+    "title": "Verghese Kurien",
+    "genero": "M",
+    "origem": "Internacional",
+    "pais": "Índia",
+    "categoria": "Liderança",
+    "historico": true,
+    "destaque": false,
+    "nascimento": "1921",
+    "falecimento": "2012",
+    "ano_nascimento": 1921,
+    "ano_falecimento": 2012,
+    "idade": 91,
+    "resumo": "Engenheiro indiano conhecido como o 'pai da Revolução Branca', que fez da Índia o maior produtor de leite do mundo por meio de cooperativas.",
+    "descricao": "Dirigiu a cooperativa de laticínios de Kaira (marca Amul), no modelo Anand, e presidiu o National Dairy Development Board, conduzindo a Operação Flood. Seu trabalho demonstrou a força das cooperativas de pequenos produtores em escala nacional.",
+    "imagem": "",
+    "tags": [
+      "Dirigente",
+      "Agricultura",
+      "Laticínios",
+      "Índia",
+      "Ásia",
+      "Internacional"
+    ],
+    "fonte": "Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Verghese_Kurien",
+    "links": [
+      {
+        "texto": "https://en.wikipedia.org/wiki/Verghese_Kurien",
+        "url": "https://en.wikipedia.org/wiki/Verghese_Kurien"
+      }
+    ]
+  },
+  {
+    "id": "ela-bhatt",
+    "title": "Ela Bhatt",
+    "genero": "F",
+    "origem": "Internacional",
+    "pais": "Índia",
+    "categoria": "Liderança Feminina",
+    "historico": true,
+    "destaque": false,
+    "nascimento": "1933",
+    "falecimento": "2022",
+    "ano_nascimento": 1933,
+    "ano_falecimento": 2022,
+    "idade": 89,
+    "resumo": "Advogada e ativista indiana, fundadora da SEWA (Self-Employed Women's Association) e do SEWA Cooperative Bank.",
+    "descricao": "Organizou mulheres trabalhadoras informais em sindicato e cooperativas e criou em 1974 um banco cooperativo de mulheres, referência mundial em microfinanças. Recebeu o Prêmio Ramon Magsaysay e o Right Livelihood Award.",
+    "imagem": "",
+    "tags": [
+      "Liderança",
+      "Mulheres",
+      "Crédito",
+      "Economia Informal",
+      "Índia",
+      "Internacional"
+    ],
+    "fonte": "Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Ela_Bhatt",
+    "links": [
+      {
+        "texto": "https://en.wikipedia.org/wiki/Ela_Bhatt",
+        "url": "https://en.wikipedia.org/wiki/Ela_Bhatt"
+      }
+    ]
+  },
+  {
+    "id": "elinor-ostrom",
+    "title": "Elinor Ostrom",
+    "genero": "F",
+    "origem": "Internacional",
+    "pais": "Estados Unidos",
+    "categoria": "Pensadora",
+    "historico": true,
+    "destaque": false,
+    "nascimento": "1933",
+    "falecimento": "2012",
+    "ano_nascimento": 1933,
+    "ano_falecimento": 2012,
+    "idade": 79,
+    "resumo": "Cientista política norte-americana, primeira mulher a receber o Prêmio Nobel de Economia (2009), por seus estudos sobre a governança dos bens comuns.",
+    "descricao": "Em 'Governing the Commons' (1990) demonstrou que comunidades podem gerir recursos coletivos de forma sustentável por meio de regras próprias e autogoverno, contribuição que dialoga diretamente com a gestão democrática e a autonomia das cooperativas.",
+    "imagem": "",
+    "tags": [
+      "Pensadora",
+      "Mulheres",
+      "Bens Comuns",
+      "Economia",
+      "Estados Unidos",
+      "Internacional"
+    ],
+    "fonte": "Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Elinor_Ostrom",
+    "links": [
+      {
+        "texto": "https://en.wikipedia.org/wiki/Elinor_Ostrom",
+        "url": "https://en.wikipedia.org/wiki/Elinor_Ostrom"
+      }
+    ]
+  },
+  {
+    "id": "ian-macpherson",
+    "title": "Ian MacPherson",
+    "genero": "M",
+    "origem": "Internacional",
+    "pais": "Canadá",
+    "categoria": "Pensador",
+    "historico": true,
+    "destaque": false,
+    "nascimento": "1939",
+    "falecimento": "2013",
+    "ano_nascimento": 1939,
+    "ano_falecimento": 2013,
+    "idade": 74,
+    "resumo": "Historiador canadense que coordenou a revisão dos princípios cooperativos que resultou na Declaração sobre a Identidade Cooperativa da ACI (Manchester, 1995).",
+    "descricao": "Professor da Universidade de Victoria, escreveu extensamente sobre a história do cooperativismo e foi o principal redator do documento que define até hoje cooperativa, valores e os sete princípios adotados pela Aliança Cooperativa Internacional.",
+    "imagem": "",
+    "tags": [
+      "Pensador",
+      "Princípios Cooperativos",
+      "ACI",
+      "História",
+      "Canadá",
+      "Internacional"
+    ],
+    "fonte": "ICA",
+    "link": "",
+    "links": []
+  },
+  {
+    "id": "hans-munkner",
+    "title": "Hans-Hermann Münkner",
+    "genero": "M",
+    "origem": "Internacional",
+    "pais": "Alemanha",
+    "categoria": "Jurista",
+    "historico": true,
+    "destaque": false,
+    "nascimento": "1935",
+    "falecimento": "2023",
+    "ano_nascimento": 1935,
+    "ano_falecimento": 2023,
+    "idade": 88,
+    "resumo": "Jurista alemão, uma das maiores referências mundiais em direito cooperativo e legislação cooperativa comparada.",
+    "descricao": "Professor da Universidade de Marburg, dirigiu o Instituto de Cooperação em Países em Desenvolvimento e influenciou a Declaração de Identidade Cooperativa da ACI (1995), as diretrizes da ONU (2001) e a Recomendação 193 da OIT (2002). Autor de 'Co-operative Principles and Co-operative Law'.",
+    "imagem": "",
+    "tags": [
+      "Jurista",
+      "Direito Cooperativo",
+      "Legislação",
+      "Alemanha",
+      "Internacional"
+    ],
+    "fonte": "Co-operative News",
+    "link": "https://www.thenews.coop/obituary-prof-hans-hermann-munkner-co-operative-law-expert-and-pioneer/",
+    "links": [
+      {
+        "texto": "https://www.thenews.coop/obituary-prof-hans-hermann-munkner-co-operative-law-expert-and-pioneer/",
+        "url": "https://www.thenews.coop/obituary-prof-hans-hermann-munkner-co-operative-law-expert-and-pioneer/"
+      }
+    ]
+  },
+  {
+    "id": "dante-cracogna",
+    "title": "Dante Osvaldo Cracogna",
+    "genero": "M",
+    "origem": "Internacional",
+    "pais": "Argentina",
+    "categoria": "Jurista",
+    "historico": true,
+    "destaque": false,
+    "nascimento": "1943",
+    "falecimento": "",
+    "ano_nascimento": 1943,
+    "ano_falecimento": null,
+    "idade": null,
+    "resumo": "Jurista argentino, referência latino-americana em direito cooperativo, ex-presidente da Associação Internacional de Direito Cooperativo.",
+    "descricao": "Doutor em Direito e professor da Universidade de Buenos Aires, integrou o grupo de assessoria jurídica da ACI, coordenou a comissão jurídica da Reunião Especializada de Cooperativas do Mercosul e dirigiu o antigo Instituto Nacional de Ação Cooperativa. Foi consultor da OIT e da ONU.",
+    "imagem": "",
+    "tags": [
+      "Jurista",
+      "Direito Cooperativo",
+      "Mercosul",
+      "Argentina",
+      "América Latina",
+      "Internacional"
+    ],
+    "fonte": "Universidad Nacional de La Pampa",
+    "link": "https://www.unlpam.edu.ar/newnovedades/articulos-principales/dr-dante-cracogna-profesor-honorario-de-la-unlpam",
+    "links": [
+      {
+        "texto": "https://www.unlpam.edu.ar/newnovedades/articulos-principales/dr-dante-cracogna-profesor-honorario-de-la-unlpam",
+        "url": "https://www.unlpam.edu.ar/newnovedades/articulos-principales/dr-dante-cracogna-profesor-honorario-de-la-unlpam"
+      }
+    ]
+  },
+  {
+    "id": "javier-aurrecoa",
+    "title": "Javier Divar Garteiz-Aurrecoa",
+    "genero": "M",
+    "origem": "Internacional",
+    "pais": "Espanha",
+    "categoria": "Jurista",
+    "historico": true,
+    "destaque": false,
+    "nascimento": "",
+    "falecimento": "",
+    "ano_nascimento": null,
+    "ano_falecimento": null,
+    "idade": null,
+    "resumo": "Catedrático de Direito Mercantil da Universidade de Deusto (País Basco), referência ibero-americana em direito cooperativo.",
+    "descricao": "Autor de obras como 'Economía y democracia' e de numerosos estudos sobre a gestão democrática e o regime jurídico das cooperativas, é presença constante na Associação Internacional de Direito Cooperativo e na revista Deusto Estudios Cooperativos.",
+    "imagem": "",
+    "tags": [
+      "Jurista",
+      "Direito Cooperativo",
+      "Espanha",
+      "Internacional"
+    ],
+    "fonte": "Dialnet",
+    "link": "https://dialnet.unirioja.es/servlet/autor?codigo=4465",
+    "links": [
+      {
+        "texto": "https://dialnet.unirioja.es/servlet/autor?codigo=4465",
+        "url": "https://dialnet.unirioja.es/servlet/autor?codigo=4465"
+      }
+    ]
+  },
+  {
+    "id": "brett-fairbairn",
+    "title": "Brett Fairbairn",
+    "genero": "M",
+    "origem": "Internacional",
+    "pais": "Canadá",
+    "categoria": "Pesquisador",
+    "historico": true,
+    "destaque": false,
+    "nascimento": "",
+    "falecimento": "",
+    "ano_nascimento": null,
+    "ano_falecimento": null,
+    "idade": null,
+    "resumo": "Historiador canadense de cooperativas, autor de 'The Meaning of Rochdale' (1994), leitura clássica sobre a origem dos princípios cooperativos.",
+    "descricao": "Ligado por décadas ao Centre for the Study of Co-operatives da Universidade de Saskatchewan, pesquisou identidade, governança e vínculo com os associados, contribuindo para a compreensão histórica dos princípios de Rochdale.",
+    "imagem": "",
+    "tags": [
+      "Pesquisador",
+      "Rochdale",
+      "História",
+      "Canadá",
+      "Internacional"
+    ],
+    "fonte": "Centre for the Study of Co-operatives (USask)",
+    "link": "",
+    "links": []
+  },
+  {
+    "id": "stefano-zamagni",
+    "title": "Stefano Zamagni",
+    "genero": "M",
+    "origem": "Internacional",
+    "pais": "Itália",
+    "categoria": "Pensador",
+    "historico": true,
+    "destaque": false,
+    "nascimento": "1943",
+    "falecimento": "",
+    "ano_nascimento": 1943,
+    "ano_falecimento": null,
+    "idade": null,
+    "resumo": "Economista italiano, professor da Universidade de Bolonha e principal formulador contemporâneo da 'economia civil', com ampla obra sobre cooperativas.",
+    "descricao": "Com Vera Zamagni escreveu 'Cooperative Enterprise' (2010), análise da identidade e da eficiência das empresas cooperativas. Presidiu a Pontifícia Academia de Ciências Sociais e é referência no diálogo entre economia, ética e doutrina social da Igreja.",
+    "imagem": "",
+    "tags": [
+      "Pensador",
+      "Economia Civil",
+      "Doutrina Social",
+      "Itália",
+      "Internacional"
+    ],
+    "fonte": "Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Stefano_Zamagni",
+    "links": [
+      {
+        "texto": "https://en.wikipedia.org/wiki/Stefano_Zamagni",
+        "url": "https://en.wikipedia.org/wiki/Stefano_Zamagni"
+      }
+    ]
+  },
+  {
+    "id": "pauline-green",
+    "title": "Pauline Green",
+    "genero": "F",
+    "origem": "Internacional",
+    "pais": "Reino Unido",
+    "categoria": "Liderança Feminina",
+    "historico": true,
+    "destaque": false,
+    "nascimento": "1948",
+    "falecimento": "",
+    "ano_nascimento": 1948,
+    "ano_falecimento": null,
+    "idade": null,
+    "resumo": "Primeira mulher a presidir a Aliança Cooperativa Internacional (2009 a 2015).",
+    "descricao": "Ex-deputada do Parlamento Europeu e ex-dirigente da Co-operatives UK, liderou a ACI durante o Ano Internacional das Cooperativas da ONU (2012) e o lançamento do 'Plano para uma Década Cooperativa'. Recebeu o título de Dame pelos serviços ao cooperativismo.",
+    "imagem": "",
+    "tags": [
+      "Liderança",
+      "Mulheres",
+      "ACI",
+      "Reino Unido",
+      "Internacional"
+    ],
+    "fonte": "Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Pauline_Green",
+    "links": [
+      {
+        "texto": "https://en.wikipedia.org/wiki/Pauline_Green",
+        "url": "https://en.wikipedia.org/wiki/Pauline_Green"
+      }
+    ]
+  },
+  {
+    "id": "monique-leroux",
+    "title": "Monique Leroux",
+    "genero": "F",
+    "origem": "Internacional",
+    "pais": "Canadá",
+    "categoria": "Liderança Feminina",
+    "historico": true,
+    "destaque": false,
+    "nascimento": "1954",
+    "falecimento": "",
+    "ano_nascimento": 1954,
+    "ano_falecimento": null,
+    "idade": null,
+    "resumo": "Primeira mulher a presidir o Movimento Desjardins (2008 a 2016) e presidente da Aliança Cooperativa Internacional (2015 a 2017).",
+    "descricao": "Contadora de formação, conduziu o maior grupo financeiro cooperativo da América do Norte e, na ACI, promoveu a Cúpula Internacional das Cooperativas no Quebec e a agenda de crescimento do setor.",
+    "imagem": "",
+    "tags": [
+      "Liderança",
+      "Mulheres",
+      "Crédito",
+      "Desjardins",
+      "ACI",
+      "Canadá",
+      "Internacional"
+    ],
+    "fonte": "Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Monique_Leroux",
+    "links": [
+      {
+        "texto": "https://en.wikipedia.org/wiki/Monique_Leroux",
+        "url": "https://en.wikipedia.org/wiki/Monique_Leroux"
+      }
+    ]
+  },
+  {
+    "id": "ariel-guarco",
+    "title": "Ariel Guarco",
+    "genero": "M",
+    "origem": "Internacional",
+    "pais": "Argentina",
+    "categoria": "Liderança",
+    "historico": true,
+    "destaque": false,
+    "nascimento": "",
+    "falecimento": "",
+    "ano_nascimento": null,
+    "ano_falecimento": null,
+    "idade": null,
+    "resumo": "Presidente da Aliança Cooperativa Internacional desde 2017, primeiro latino-americano no cargo, reeleito em setembro de 2026 na Assembleia Geral do Panamá.",
+    "descricao": "Natural de Coronel Pringles (Buenos Aires), iniciou-se na cooperativa elétrica local, que preside desde 2007. Presidiu a FEDECOBA e a Cooperar, confederação que reúne milhares de cooperativas argentinas, e integra o Conselho da ACI desde 2013.",
+    "imagem": "",
+    "tags": [
+      "Dirigente",
+      "ACI",
+      "Energia",
+      "Argentina",
+      "América Latina",
+      "Internacional"
+    ],
+    "fonte": "ICA",
+    "link": "https://ica.coop/en/estructura/president-ariel-guarco",
+    "links": [
+      {
+        "texto": "https://ica.coop/en/estructura/president-ariel-guarco",
+        "url": "https://ica.coop/en/estructura/president-ariel-guarco"
+      }
+    ]
+  },
+  {
+    "id": "graciela-fernandez",
+    "title": "Graciela Fernández",
+    "genero": "F",
+    "origem": "Internacional",
+    "pais": "Uruguai",
+    "categoria": "Liderança Feminina",
+    "historico": true,
+    "destaque": false,
+    "nascimento": "",
+    "falecimento": "",
+    "ano_nascimento": null,
+    "ano_falecimento": null,
+    "idade": null,
+    "resumo": "Advogada uruguaia, primeira mulher eleita presidente da Cooperativas de las Américas (2018 a 2024) e vice-presidente da ACI.",
+    "descricao": "Doutora em Direito e Ciências Sociais pela Universidad de la República, presidiu a Confederação Uruguaia de Entidades Cooperativas (CUDECOOP) e o Centro Cooperativista Uruguaio, onde chefiou a área jurídica. Atuou também em programas de cooperativas sociais do governo uruguaio.",
+    "imagem": "",
+    "tags": [
+      "Liderança",
+      "Mulheres",
+      "Advogada",
+      "ACI",
+      "Uruguai",
+      "América Latina",
+      "Internacional"
+    ],
+    "fonte": "ICA",
+    "link": "https://ica.coop/en/graciela-fernandez-cooperativas-americas",
+    "links": [
+      {
+        "texto": "https://ica.coop/en/graciela-fernandez-cooperativas-americas",
+        "url": "https://ica.coop/en/graciela-fernandez-cooperativas-americas"
+      }
+    ]
+  },
+  {
+    "id": "simel-esim",
+    "title": "Simel Esim",
+    "genero": "F",
+    "origem": "Internacional",
+    "pais": "Turquia",
+    "categoria": "Liderança Feminina",
+    "historico": true,
+    "destaque": false,
+    "nascimento": "",
+    "falecimento": "",
+    "ano_nascimento": null,
+    "ano_falecimento": null,
+    "idade": null,
+    "resumo": "Economista, chefe da Unidade de Cooperativas e Economia Social e Solidária da Organização Internacional do Trabalho (OIT).",
+    "descricao": "Coordena na OIT a agenda de promoção das cooperativas ligada à Recomendação 193 e à resolução sobre trabalho decente e economia social e solidária (2022), e presidiu a Força-Tarefa Interagências da ONU sobre Economia Social e Solidária.",
+    "imagem": "",
+    "tags": [
+      "Liderança",
+      "Mulheres",
+      "OIT",
+      "Economia Social e Solidária",
+      "Internacional"
+    ],
+    "fonte": "ICA",
+    "link": "https://ica.coop/en/newsroom/news/interview-simel-esim-power-cooperatives-drive-social-justice",
+    "links": [
+      {
+        "texto": "https://ica.coop/en/newsroom/news/interview-simel-esim-power-cooperatives-drive-social-justice",
+        "url": "https://ica.coop/en/newsroom/news/interview-simel-esim-power-cooperatives-drive-social-justice"
+      }
+    ]
+  },
+  {
+    "id": "jeroen-douglas",
+    "title": "Jeroen Douglas",
+    "genero": "M",
+    "origem": "Internacional",
+    "pais": "Países Baixos",
+    "categoria": "Liderança",
+    "historico": true,
+    "destaque": false,
+    "nascimento": "",
+    "falecimento": "",
+    "ano_nascimento": null,
+    "ano_falecimento": null,
+    "idade": null,
+    "resumo": "Diretor-geral da Aliança Cooperativa Internacional, responsável pela gestão executiva da entidade que representa o cooperativismo mundial.",
+    "descricao": "Antes da ACI, dirigiu organizações de cooperação internacional voltadas ao desenvolvimento e à promoção de cooperativas, com atuação em África, Ásia e América Latina.",
+    "imagem": "",
+    "tags": [
+      "Dirigente",
+      "ACI",
+      "Países Baixos",
+      "Internacional"
+    ],
+    "fonte": "ICA",
+    "link": "https://ica.coop/en/newsroom/news/jeroen-douglas-appointed-new-director-general-international-cooperative-alliance",
+    "links": [
+      {
+        "texto": "https://ica.coop/en/newsroom/news/jeroen-douglas-appointed-new-director-general-international-cooperative-alliance",
+        "url": "https://ica.coop/en/newsroom/news/jeroen-douglas-appointed-new-director-general-international-cooperative-alliance"
+      }
+    ]
+  },
+  {
+    "id": "roberto-rodrigues",
+    "title": "Roberto Rodrigues",
+    "genero": "M",
+    "origem": "Nacional",
+    "pais": "Brasil",
+    "categoria": "Liderança",
+    "historico": true,
+    "destaque": false,
+    "nascimento": "1942",
+    "falecimento": "",
+    "ano_nascimento": 1942,
+    "ano_falecimento": null,
+    "idade": null,
+    "resumo": "Engenheiro agrônomo e produtor rural, primeiro não europeu a presidir a Aliança Cooperativa Internacional (1997 a 2001) e ministro da Agricultura (2003 a 2006).",
+    "descricao": "Natural de Cordeirópolis (SP), presidiu a OCB e a Organização das Cooperativas do Estado de São Paulo e tornou-se uma das vozes mais conhecidas do cooperativismo agropecuário. É coordenador do Centro de Agronegócio da FGV e embaixador especial da FAO para o cooperativismo.",
+    "imagem": "",
+    "tags": [
+      "Dirigente",
+      "Agricultura",
+      "ACI",
+      "OCB",
+      "Brasil",
+      "Nacional"
+    ],
+    "fonte": "FGV Agro",
+    "link": "https://agro.fgv.br/node/49",
+    "links": [
+      {
+        "texto": "https://agro.fgv.br/node/49",
+        "url": "https://agro.fgv.br/node/49"
+      }
+    ]
+  },
+  {
+    "id": "edmundo-castilho",
+    "title": "Edmundo Castilho",
+    "genero": "M",
+    "origem": "Nacional",
+    "pais": "Brasil",
+    "categoria": "Liderança",
+    "historico": true,
+    "destaque": false,
+    "nascimento": "",
+    "falecimento": "2016",
+    "ano_nascimento": null,
+    "ano_falecimento": 2016,
+    "idade": null,
+    "resumo": "Médico ginecologista, fundador da primeira cooperativa médica do Brasil, a Unimed Santos (1967), e presidente da Unimed do Brasil de 1975 a 2001.",
+    "descricao": "Com outros 22 médicos criou em 18 de dezembro de 1967 a cooperativa que deu origem ao Sistema Unimed, hoje a maior rede de cooperativas de saúde do mundo. Defendeu o solidarismo na saúde e publicou 'Ética e solidarismo na saúde' e 'Razões do tempo'. Faleceu em 10 de junho de 2016, aos 86 anos.",
+    "imagem": "",
+    "tags": [
+      "Dirigente",
+      "Saúde",
+      "Unimed",
+      "São Paulo",
+      "Brasil",
+      "Nacional"
+    ],
+    "fonte": "Sistema OCB",
+    "link": "https://somoscooperativismo.coop.br/noticias-negocios/morre-edmundo-castilho-fundador-da-unimed-santos",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/noticias-negocios/morre-edmundo-castilho-fundador-da-unimed-santos",
+        "url": "https://somoscooperativismo.coop.br/noticias-negocios/morre-edmundo-castilho-fundador-da-unimed-santos"
+      }
+    ]
+  },
+  {
+    "id": "jose-gallassini",
+    "title": "José Aroldo Gallassini",
+    "genero": "M",
+    "origem": "Nacional",
+    "pais": "Brasil",
+    "categoria": "Liderança",
+    "historico": true,
+    "destaque": false,
+    "nascimento": "",
+    "falecimento": "",
+    "ano_nascimento": null,
+    "ano_falecimento": null,
+    "idade": null,
+    "resumo": "Engenheiro agrônomo catarinense que liderou a fundação da Coamo (Campo Mourão/PR, 1970), uma das maiores cooperativas agroindustriais da América Latina.",
+    "descricao": "Extensionista da Acarpa (atual Emater), reuniu 79 produtores para criar a cooperativa e a conduziu por décadas, introduzindo novas tecnologias agrícolas na região. Criou também a Credicoamo (1989) e instituições de ensino em Campo Mourão.",
+    "imagem": "",
+    "tags": [
+      "Dirigente",
+      "Agricultura",
+      "Paraná",
+      "Brasil",
+      "Nacional"
+    ],
+    "fonte": "Wikipedia",
+    "link": "https://pt.wikipedia.org/wiki/Coamo_Agroindustrial_Cooperativa",
+    "links": [
+      {
+        "texto": "https://pt.wikipedia.org/wiki/Coamo_Agroindustrial_Cooperativa",
+        "url": "https://pt.wikipedia.org/wiki/Coamo_Agroindustrial_Cooperativa"
+      }
+    ]
+  },
+  {
+    "id": "ronaldo-scucato",
+    "title": "Ronaldo Scucato",
+    "genero": "M",
+    "origem": "Nacional",
+    "pais": "Brasil",
+    "categoria": "Liderança",
+    "historico": true,
+    "destaque": false,
+    "nascimento": "1937",
+    "falecimento": "",
+    "ano_nascimento": 1937,
+    "ano_falecimento": null,
+    "idade": null,
+    "resumo": "Presidente do Sistema Ocemg desde 2001 e uma das mais longevas lideranças do cooperativismo mineiro.",
+    "descricao": "Com mais de seis décadas de atuação no cooperativismo, começou a vida profissional como caixa de supermercado e chegou à presidência da organização estadual das cooperativas de Minas Gerais, onde investiu em formação e em um centro de capacitação cooperativista em Belo Horizonte.",
+    "imagem": "",
+    "tags": [
+      "Dirigente",
+      "Minas Gerais",
+      "Ocemg",
+      "Brasil",
+      "Nacional"
+    ],
+    "fonte": "Sistema OCB",
+    "link": "https://somoscooperativismo.coop.br/noticias-inovacao/perfil-da-semana-ronaldo-scucato",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/noticias-inovacao/perfil-da-semana-ronaldo-scucato",
+        "url": "https://somoscooperativismo.coop.br/noticias-inovacao/perfil-da-semana-ronaldo-scucato"
+      }
+    ]
+  },
+  {
+    "id": "jose-neto",
+    "title": "José Alves de Souza Neto",
+    "genero": "M",
+    "origem": "Nacional",
+    "pais": "Brasil",
+    "categoria": "Liderança",
+    "historico": true,
+    "destaque": false,
+    "nascimento": "",
+    "falecimento": "",
+    "ano_nascimento": null,
+    "ano_falecimento": null,
+    "idade": null,
+    "resumo": "Cirurgião-dentista e presidente da Uniodonto do Brasil, reeleito em setembro de 2026 presidente da Cooperativas de las Américas para 2026 a 2030.",
+    "descricao": "Fundou em 1994 a Uniodonto Athenas Paulista, presidiu a Federação Paulista de Uniodontos e chegou à presidência da representação regional da ACI nas Américas em 2024, sucedendo Graciela Fernández.",
+    "imagem": "",
+    "tags": [
+      "Dirigente",
+      "Saúde",
+      "Odontologia",
+      "ACI",
+      "Brasil",
+      "Nacional"
+    ],
+    "fonte": "ANSOL",
+    "link": "https://ansol.com.ar/mundo/jose-alves-cooperativas-de-las-americas/",
+    "links": [
+      {
+        "texto": "https://ansol.com.ar/mundo/jose-alves-cooperativas-de-las-americas/",
+        "url": "https://ansol.com.ar/mundo/jose-alves-cooperativas-de-las-americas/"
+      }
+    ]
+  },
+  {
+    "id": "maria-oliveira",
+    "title": "Maria Vandalva Lima de Oliveira",
+    "genero": "F",
+    "origem": "Nacional",
+    "pais": "Brasil",
+    "categoria": "Liderança Feminina",
+    "historico": true,
+    "destaque": false,
+    "nascimento": "",
+    "falecimento": "",
+    "ano_nascimento": null,
+    "ano_falecimento": null,
+    "idade": null,
+    "resumo": "Presidente do Conselho de Administração do Sicoob Coopere (BA) e vencedora do 9º Prêmio Liderança Feminina do CEBDS (2026).",
+    "descricao": "Representa as cooperativas contribuintes no Conselho do Sescoop/BA, impulsionou o Comitê de Mulheres Cooperativistas da sua cooperativa e lidera o comitê estadual 'Elas pelo Coop BA'.",
+    "imagem": "",
+    "tags": [
+      "Dirigente",
+      "Mulheres",
+      "Crédito",
+      "Bahia",
+      "Brasil",
+      "Nacional"
+    ],
+    "fonte": "MundoCoop",
+    "link": "https://mundocoop.com.br/gestao-e-negocios/presidenta-de-cooperativa-baiana-e-vencedora-do-premio-lideranca-feminina-do-cebds/",
+    "links": [
+      {
+        "texto": "https://mundocoop.com.br/gestao-e-negocios/presidenta-de-cooperativa-baiana-e-vencedora-do-premio-lideranca-feminina-do-cebds/",
+        "url": "https://mundocoop.com.br/gestao-e-negocios/presidenta-de-cooperativa-baiana-e-vencedora-do-premio-lideranca-feminina-do-cebds/"
+      }
+    ]
+  },
+  {
+    "id": "angelita-cadona",
+    "title": "Angelita Marisa Cadoná",
+    "genero": "F",
+    "origem": "Nacional",
+    "pais": "Brasil",
+    "categoria": "Liderança Feminina",
+    "historico": true,
+    "destaque": false,
+    "nascimento": "",
+    "falecimento": "",
+    "ano_nascimento": null,
+    "ano_falecimento": null,
+    "idade": null,
+    "resumo": "Presidente do Conselho de Administração da Sicredi Conexão (RS) e integrante do Comitê de Mulheres da OCB.",
+    "descricao": "Com sede em Rodeio Bonito (RS), atua também no conselho da Central Sicredi Sul/Sudeste e como diretora suplente da Ocergs, defendendo políticas de equidade de gênero e formação de lideranças femininas no cooperativismo de crédito.",
+    "imagem": "",
+    "tags": [
+      "Dirigente",
+      "Mulheres",
+      "Crédito",
+      "Sicredi",
+      "Rio Grande do Sul",
+      "Brasil",
+      "Nacional"
+    ],
+    "fonte": "MundoCoop",
+    "link": "https://mundocoop.com.br/destaque/liderancas-femininas-destacam-trajetoria-e-os-desafios-das-cooperativas-financeiras/",
+    "links": [
+      {
+        "texto": "https://mundocoop.com.br/destaque/liderancas-femininas-destacam-trajetoria-e-os-desafios-das-cooperativas-financeiras/",
+        "url": "https://mundocoop.com.br/destaque/liderancas-femininas-destacam-trajetoria-e-os-desafios-das-cooperativas-financeiras/"
+      }
+    ]
+  },
+  {
+    "id": "paul-singer",
+    "title": "Paul Singer",
+    "genero": "M",
+    "origem": "Nacional",
+    "pais": "Brasil",
+    "categoria": "Pensador",
+    "historico": true,
+    "destaque": false,
+    "nascimento": "1932",
+    "falecimento": "2018",
+    "ano_nascimento": 1932,
+    "ano_falecimento": 2018,
+    "idade": 86,
+    "resumo": "Economista austro-brasileiro, principal teórico da economia solidária no Brasil e secretário nacional de Economia Solidária (2003 a 2016).",
+    "descricao": "Professor da USP, defendeu a autogestão e as cooperativas de trabalhadores como alternativa ao capitalismo em obras como 'Introdução à Economia Solidária' (2002). Como secretário da SENAES, estruturou políticas públicas de apoio a cooperativas e empreendimentos solidários.",
+    "imagem": "",
+    "tags": [
+      "Pensador",
+      "Economia Solidária",
+      "Autogestão",
+      "Brasil",
+      "Nacional"
+    ],
+    "fonte": "Wikipedia",
+    "link": "https://pt.wikipedia.org/wiki/Paul_Singer",
+    "links": [
+      {
+        "texto": "https://pt.wikipedia.org/wiki/Paul_Singer",
+        "url": "https://pt.wikipedia.org/wiki/Paul_Singer"
+      }
+    ]
+  },
+  {
+    "id": "waldirio-bulgarelli",
+    "title": "Waldirio Bulgarelli",
+    "genero": "M",
+    "origem": "Nacional",
+    "pais": "Brasil",
+    "categoria": "Jurista",
+    "historico": true,
+    "destaque": false,
+    "nascimento": "",
+    "falecimento": "2006",
+    "ano_nascimento": null,
+    "ano_falecimento": 2006,
+    "idade": null,
+    "resumo": "Jurista e professor de Direito Comercial da USP, fundador da doutrina do direito cooperativo no Brasil.",
+    "descricao": "Autor de 'Regime jurídico das sociedades cooperativas' (1965), 'Elaboração do direito cooperativo' (1967) e 'As sociedades cooperativas e sua disciplina jurídica' (1998), sistematizou o ato cooperativo e influenciou a Lei 5.764/1971. Faleceu em São Paulo em outubro de 2006.",
+    "imagem": "",
+    "tags": [
+      "Jurista",
+      "Direito Cooperativo",
+      "Ato Cooperativo",
+      "São Paulo",
+      "Brasil",
+      "Nacional"
+    ],
+    "fonte": "Migalhas",
+    "link": "https://www.migalhas.com.br/leitores/31150/falecimento-waldirio-bulgarelli",
+    "links": [
+      {
+        "texto": "https://www.migalhas.com.br/leitores/31150/falecimento-waldirio-bulgarelli",
+        "url": "https://www.migalhas.com.br/leitores/31150/falecimento-waldirio-bulgarelli"
+      }
+    ]
+  },
+  {
+    "id": "walmor-franke",
+    "title": "Walmor Franke",
+    "genero": "M",
+    "origem": "Nacional",
+    "pais": "Brasil",
+    "categoria": "Jurista",
+    "historico": true,
+    "destaque": false,
+    "nascimento": "",
+    "falecimento": "",
+    "ano_nascimento": null,
+    "ano_falecimento": null,
+    "idade": null,
+    "resumo": "Jurista brasileiro, autor de 'Direito das sociedades cooperativas' (1973), obra clássica do direito cooperativo brasileiro.",
+    "descricao": "Sua obra, publicada logo após a Lei 5.764/1971, analisou a natureza jurídica das cooperativas e do ato cooperativo e segue como referência em estudos de direito cooperativo e tributação de cooperativas.",
+    "imagem": "",
+    "tags": [
+      "Jurista",
+      "Direito Cooperativo",
+      "Ato Cooperativo",
+      "Brasil",
+      "Nacional"
+    ],
+    "fonte": "LexML",
+    "link": "https://www.lexml.gov.br/urn/urn:lex:br:rede.virtual.bibliotecas:livro:1973;000039242",
+    "links": [
+      {
+        "texto": "https://www.lexml.gov.br/urn/urn:lex:br:rede.virtual.bibliotecas:livro:1973;000039242",
+        "url": "https://www.lexml.gov.br/urn/urn:lex:br:rede.virtual.bibliotecas:livro:1973;000039242"
+      }
+    ]
+  },
+  {
+    "id": "fabio-filho",
+    "title": "Fábio Luz Filho",
+    "genero": "M",
+    "origem": "Nacional",
+    "pais": "Brasil",
+    "categoria": "Pensador",
+    "historico": true,
+    "destaque": false,
+    "nascimento": "",
+    "falecimento": "",
+    "ano_nascimento": null,
+    "ano_falecimento": null,
+    "idade": null,
+    "resumo": "Um dos primeiros sistematizadores do cooperativismo no Brasil, autor de 'Sociedades cooperativas' (1930) e 'Teoria e prática das sociedades cooperativas'.",
+    "descricao": "Ligado ao Ministério da Agricultura, divulgou a doutrina cooperativista nas décadas de 1930 a 1960, período de edição do Decreto 22.239/1932, e escreveu também sobre direito cooperativo e cooperativismo rural.",
+    "imagem": "",
+    "tags": [
+      "Pensador",
+      "Direito Cooperativo",
+      "História",
+      "Brasil",
+      "Nacional"
+    ],
+    "fonte": "LexML",
+    "link": "https://www.lexml.gov.br/urn/urn:lex:br:rede.virtual.bibliotecas:livro:1946;000037859",
+    "links": [
+      {
+        "texto": "https://www.lexml.gov.br/urn/urn:lex:br:rede.virtual.bibliotecas:livro:1946;000037859",
+        "url": "https://www.lexml.gov.br/urn/urn:lex:br:rede.virtual.bibliotecas:livro:1946;000037859"
+      }
+    ]
+  },
+  {
+    "id": "jose-schneider",
+    "title": "José Odelso Schneider",
+    "genero": "M",
+    "origem": "Nacional",
+    "pais": "Brasil",
+    "categoria": "Pesquisador",
+    "historico": true,
+    "destaque": false,
+    "nascimento": "1937",
+    "falecimento": "2020",
+    "ano_nascimento": 1937,
+    "ano_falecimento": 2020,
+    "idade": 83,
+    "resumo": "Padre jesuíta e sociólogo, chamado de 'apóstolo do cooperativismo', criador do curso de especialização em cooperativismo da Unisinos.",
+    "descricao": "Doutor em Ciências Sociais pela Pontifícia Universidade Gregoriana (Roma), foi professor e pesquisador da Unisinos, onde manteve por mais de 30 anos a especialização em cooperativismo, e publicou extensamente sobre educação e democracia nas cooperativas.",
+    "imagem": "",
+    "tags": [
+      "Pesquisador",
+      "Educação Cooperativa",
+      "Sociologia",
+      "Rio Grande do Sul",
+      "Brasil",
+      "Nacional"
+    ],
+    "fonte": "Instituto Humanitas Unisinos",
+    "link": "https://www.ihu.unisinos.br/78-noticias/605763-in-memoriam-jose-odelso-schneider-apostolo-do-cooperativismo-1937-2020",
+    "links": [
+      {
+        "texto": "https://www.ihu.unisinos.br/78-noticias/605763-in-memoriam-jose-odelso-schneider-apostolo-do-cooperativismo-1937-2020",
+        "url": "https://www.ihu.unisinos.br/78-noticias/605763-in-memoriam-jose-odelso-schneider-apostolo-do-cooperativismo-1937-2020"
+      }
+    ]
+  },
+  {
+    "id": "vergilio-perius",
+    "title": "Vergílio Frederico Perius",
+    "genero": "M",
+    "origem": "Nacional",
+    "pais": "Brasil",
+    "categoria": "Jurista",
+    "historico": true,
+    "destaque": false,
+    "nascimento": "1943",
+    "falecimento": "",
+    "ano_nascimento": 1943,
+    "ano_falecimento": null,
+    "idade": null,
+    "resumo": "Professor de direito cooperativo, presidiu o Sistema Ocergs por 16 anos e idealizou a Escola Superior do Cooperativismo (Escoop).",
+    "descricao": "Autor de diversas obras, como 'Cooperativismo e lei' (2001), leciona direito cooperativo, governança e história do cooperativismo. Em 2024 a biblioteca da Escoop recebeu seu nome.",
+    "imagem": "",
+    "tags": [
+      "Jurista",
+      "Dirigente",
+      "Educação Cooperativa",
+      "Rio Grande do Sul",
+      "Brasil",
+      "Nacional"
+    ],
+    "fonte": "Sistema Ocergs",
+    "link": "https://somoscooperativismo-rs.coop.br/noticias/vergilio-perius-e-homenageado-e-tera-seu-nome-em-biblioteca-da-escoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo-rs.coop.br/noticias/vergilio-perius-e-homenageado-e-tera-seu-nome-em-biblioteca-da-escoop",
+        "url": "https://somoscooperativismo-rs.coop.br/noticias/vergilio-perius-e-homenageado-e-tera-seu-nome-em-biblioteca-da-escoop"
+      }
+    ]
+  },
+  {
+    "id": "sigismundo-neto",
+    "title": "Sigismundo Bialoskorski Neto",
+    "genero": "M",
+    "origem": "Nacional",
+    "pais": "Brasil",
+    "categoria": "Pesquisador",
+    "historico": true,
+    "destaque": false,
+    "nascimento": "",
+    "falecimento": "",
+    "ano_nascimento": null,
+    "ano_falecimento": null,
+    "idade": null,
+    "resumo": "Economista e professor titular da FEA-RP/USP, referência brasileira em economia e governança de cooperativas.",
+    "descricao": "Engenheiro agrônomo pela Esalq/USP, com mestrado e doutorado em economia aplicada e pós-doutorado na Universidade do Missouri e na Universidade Justus Liebig (Alemanha), pesquisa governança, desempenho e financiamento de cooperativas agropecuárias sob a ótica da economia institucional.",
+    "imagem": "",
+    "tags": [
+      "Pesquisador",
+      "Economia",
+      "Governança",
+      "Agricultura",
+      "São Paulo",
+      "Brasil",
+      "Nacional"
+    ],
+    "fonte": "Escavador (Lattes)",
+    "link": "https://www.escavador.com/sobre/3349471/sigismundo-bialoskorski-neto",
+    "links": [
+      {
+        "texto": "https://www.escavador.com/sobre/3349471/sigismundo-bialoskorski-neto",
+        "url": "https://www.escavador.com/sobre/3349471/sigismundo-bialoskorski-neto"
+      }
+    ]
+  },
+  {
+    "id": "renato-becho",
+    "title": "Renato Lopes Becho",
+    "genero": "M",
+    "origem": "Nacional",
+    "pais": "Brasil",
+    "categoria": "Jurista",
+    "historico": true,
+    "destaque": false,
+    "nascimento": "",
+    "falecimento": "",
+    "ano_nascimento": null,
+    "ano_falecimento": null,
+    "idade": null,
+    "resumo": "Juiz federal e professor de Direito Tributário da PUC-SP, autor de 'Tributação das cooperativas', referência no tema.",
+    "descricao": "Graduado em Direito pela UFMG, especialista em cooperativismo pela Unisinos, doutor pela PUC-SP e livre-docente pela USP, dedica parte de sua obra ao adequado tratamento tributário do ato cooperativo e aos elementos de direito cooperativo.",
+    "imagem": "",
+    "tags": [
+      "Jurista",
+      "Tributação",
+      "Ato Cooperativo",
+      "Brasil",
+      "Nacional"
+    ],
+    "fonte": "PUCRS Online",
+    "link": "https://online.pucrs.br/professor/renato-lopes-becho",
+    "links": [
+      {
+        "texto": "https://online.pucrs.br/professor/renato-lopes-becho",
+        "url": "https://online.pucrs.br/professor/renato-lopes-becho"
+      }
+    ]
+  },
+  {
+    "id": "guilherme-krueger",
+    "title": "Guilherme Gomes Krueger",
+    "genero": "M",
+    "origem": "Nacional",
+    "pais": "Brasil",
+    "categoria": "Jurista",
+    "historico": true,
+    "destaque": false,
+    "nascimento": "",
+    "falecimento": "",
+    "ano_nascimento": null,
+    "ano_falecimento": null,
+    "idade": null,
+    "resumo": "Advogado especializado em direito cooperativo, professor da PUC Minas e coordenador do 'Curso de direito cooperativo' (2009).",
+    "descricao": "Economista e bacharel em Direito, mestre em Filosofia e doutor em Direito, pesquisa tributação de cooperativas, cooperativas de trabalho e de saúde e a relação entre direito da concorrência e cooperativismo.",
+    "imagem": "",
+    "tags": [
+      "Jurista",
+      "Advogado",
+      "Direito Cooperativo",
+      "Minas Gerais",
+      "Brasil",
+      "Nacional"
+    ],
+    "fonte": "Escavador (Lattes)",
+    "link": "https://www.escavador.com/sobre/914928/guilherme-gomes-krueger",
+    "links": [
+      {
+        "texto": "https://www.escavador.com/sobre/914928/guilherme-gomes-krueger",
+        "url": "https://www.escavador.com/sobre/914928/guilherme-gomes-krueger"
       }
     ]
   }
