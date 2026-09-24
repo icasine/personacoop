@@ -72,7 +72,7 @@
     "pais": "Brasil",
     "categoria": "Liderança Feminina",
     "historico": false,
-    "destaque": true,
+    "destaque": false,
     "nascimento": "1962",
     "falecimento": "",
     "ano_nascimento": 1962,
